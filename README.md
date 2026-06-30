@@ -1,6 +1,6 @@
 ﻿# usv-telemetry
 
-Código do meu TCC I (PUCRS — Ciência da Computação). O projeto implementa um sistema de controle e telemetria para um USV tipo airboat do LSA/PUCRS, usando ROS 2 Humble, MAVLink sobre TCP e uma GCS feita em PyQt6.
+Código do TCC I (PUCRS — Ciência da Computação). O projeto implementa um sistema de controle e telemetria para um USV tipo airboat do LSA/PUCRS, usando ROS 2 Humble, MAVLink sobre TCP e uma GCS feita em PyQt6.
 
 Durante o desenvolvimento, tudo rodou em Docker no Windows. A ideia é depois mover para o Raspberry Pi 4 embarcado no barco.
 
@@ -95,4 +95,3 @@ A GCS recebe `GLOBAL_POSITION_INT` e `ATTITUDE` via MAVLink e mostra no mapa + g
 ## Autora
 
 Thaysa Roberta da Silva — PUCRS / Ciência da Computação
-Orientador: Prof. Anderson Roberto Pinheiro Domingues
