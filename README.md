@@ -1,4 +1,4 @@
-# USV Telemetry — Sistema de Controle e Telemetria para USVs
+# USV Telemetry: Sistema de Controle e Telemetria para USVs
 
 Sistema de controle e telemetria para Veículos de Superfície Não Tripulados (USVs) desenvolvido como TCC I no [LSA/PUCRS](https://lsa.pucrs.br/).
 
