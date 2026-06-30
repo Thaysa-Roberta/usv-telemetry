@@ -1,0 +1,4 @@
+PyQt6>=6.4
+PyQt6-WebEngine>=6.4
+pyqtgraph>=0.13
+pymavlink>=2.4
